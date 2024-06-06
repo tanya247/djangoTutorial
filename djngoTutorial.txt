@@ -1,0 +1,16 @@
+Django - Python Framework ... 
+    python ko backend ki trh use krke web application develop krne me help krta h.
+    Kaafi inbuilt functions ko support krta h 
+    having json support 
+    helps in modular developement of web application.
+    kisi aur backend me aapko database connect krne ke liye uske drivers ko download krnma hota h thn hm uspe crud (create,read,update and delete operations) operations use kr skte h.
+    framework of python.. so we can use it Datascience, ML, tensorflow , AI in our bweb applications.
+
+                                                                
+Installation Django...
+    Download and install python 
+    then run "pip install django" and for upgrade version run command "pip install django --upgrade"
+    for checking Django version use django --version 
+
+Django Tutorial....
+Make Django project using command "django-admin startProject <projectName>"
